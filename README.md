@@ -11,7 +11,7 @@ The SQL query calculates online conversions from free to paid users. The Python 
 
 ## How to Use
 1. Run the `my_query_1.sql` script on your SQL server to obtain the online conversion data.
-2. Open the Jupyter notebook `Conversion_from_free_app_users.ipynb` and run it to combine the online and offline data.
+2. Open the Jupyter notebook `pyton_script.ipynb` and run it to combine the online and offline data.
 
 ## Results
 The analysis provides insights into user behavior, highlighting the conversion rates from free to paid users in both online and offline modes.Category wise Month on Month analysis is available
